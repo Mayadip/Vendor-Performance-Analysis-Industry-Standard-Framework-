@@ -1,11 +1,11 @@
-# Vendor-Performance-Analysis-Industry-Standard-Framework-
-Working on an End-to-end Vendor Data Analysis project featuring data ingestion, SQL-based processing,  EDA in Python, and final visualization in Power BI. This project follows a complete  real-world analytics workflow—from raw CSV files to insights and dashboard. 
 
 # 📦 Vendor Data Analysis — End-to-End Analytics Project  
+Working on an End-to-end Vendor Data Analysis project featuring data ingestion, SQL-based processing,  EDA in Python, and final visualization in Power BI. This project follows a complete  real-world analytics workflow—from raw CSV files to insights and dashboard. 
+
 Data Ingestion • SQL Transformation • Python EDA • Power BI Dashboard
 
 This project demonstrates a complete end-to-end data analytics workflow using real vendor datasets.  
-It covers everything from ingesting raw CSV files to generating final business insights through SQL, Python, and Power BI.
+It covers most of the things from ingesting raw CSV files to generating final business insights through SQL, Python, and Power BI.
 
 ---
 
